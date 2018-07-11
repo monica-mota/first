@@ -1,5 +1,4 @@
 <?php
-
 $hostname = "localhost";         
 $username = "hubliroot";
 $password = "hubli@123";
