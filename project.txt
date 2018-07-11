@@ -1,0 +1,30 @@
+
+
+
+GIT
+
+-> install (git bash)  - done
+-> github account created
+-> generated public ssh key  and added in to git account
+
+
+GIT COMMANDS
+-> git init -- init the dir to git locally
+-> git clone -- clone the git repo from git hub
+-> git checkout -b newbranch_name (create new branch and move to the new branch)
+-> git -b newbranch_name (create new branch)
+-> git checkout branch_name (move to specified branch)
+-> git status (show the changes you have made in project)
+-> git add . (adds all the files)
+-> git commit -m "commit to save" (commied in locally)
+
+->git push origin branch_name
+
+
+GIT BRANCHING STATERGIES
+-> master == production code which means stable code (released) first app 1.0
+
+-> develop ==> next relase 2.0
+-> feature (can create the sub branches)
+
+-> create branch == 
